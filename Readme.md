@@ -6,7 +6,7 @@ A Memory Game
 
 ### Desktop
 
-<img src="./images/Memory.PNG" alt="Memory screenshot"/>
+<img src="/images/memory.PNG" alt="Memory screenshot"/>
 
 ## How to set up this repo or run the repo:
 
@@ -17,7 +17,7 @@ A Memory Game
 
 ## Built With
 
-- HTML5, Javascript
+- HTML5, CSS, Javascript
 
 ## Authors
 
